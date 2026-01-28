@@ -2,7 +2,7 @@
 
 A cybersecurity-focused web application that enables **secure file upload and download** using **AES encryption**, **role-based access control**, and **audit logging**.
 
-Built by **ASLAM JAVEED**.
+Built by **ASLAM JAVEED M**.
 
 ---
 
@@ -158,7 +158,7 @@ AES key rotation
 SIEM-style alerting
 
 👤 Author
-ASLAM JAVEED
+ASLAM JAVEED M
 Cybersecurity Enthusiast | Secure Systems Developer
 
 ⭐ If you like this project
